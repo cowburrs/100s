@@ -2,6 +2,8 @@
 RULES
 REMOVE ALREADY WATCHED RECENTLY (BEFORE LIST CREATION)
 NO TV SHOWS BEFORE 2005
+CANT BE CANCELLED OR ONGOING
+HAS TO BE < 100 HOURS RUNTIME
 ---
 
 rick and morty
@@ -10,9 +12,123 @@ game of thrones
 better call saul
 unstable smp
 bluey
-critical role
 alien stage
 gravity falls
 persona
 my mister
 reply 1988
+xmen 97
+teen titans (not go)
+dexter
+black mirror
+daredevil
+shameless
+peaky blinders
+fargo
+vikings
+chernobyl
+invincible
+hannibal
+doctor who
+andor
+mr robot
+the mandalorian
+bojack horseman
+narcos
+schitts creek
+the queens gambit
+house of cards
+adventure time
+extraordinary attorney woo
+the bear
+veneno
+fleabag
+nathan for you
+mad men
+justified
+borgen
+succession
+the americans
+happy valley
+dark
+mindhunter
+atlanta
+friday night lights
+boardwalk empire
+mare of easttown
+barry
+rectify
+silicon valley
+derry girls
+mr inbetween
+ghosts uk
+the thick of it
+olive kitteridge
+curb your enthusiasm
+the last kingdom
+pose
+reservation dogs
+undone
+endeavour
+les revenants
+flight of the conchords
+catastrophe
+downtown abbey
+review
+the leftovers
+veep
+PEN15
+sons of anarchy
+flowers
+halt and catch fire
+modern family
+the crown
+jane the virgin
+community
+the marvelous mrs maisel
+gentleman jack
+parks and recreation
+broad city
+ted lasso
+banshee
+orphan black
+i may destroy you
+the deuce
+gomorrah
+penny dreadful
+boys over flowers
+kingdom
+the handmaids tale
+top boy
+the white lotus
+patriot
+
+---
+HONORABLE MENTION
+---
+
+the amazing digital circus
+helluva boss
+hazbin hotel
+cowboy bebop
+
+---
+FAIL THE RULES
+---
+
+the shield
+the wire
+peep show
+house
+the good wife
+severance
+the pitt
+squid game
+one piece
+arcane
+the good place
+band of brothers
+arrested development
+rome
+everybody hates chris
+critical role season 1
