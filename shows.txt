@@ -4,21 +4,19 @@ REMOVE ALREADY WATCHED RECENTLY (BEFORE LIST CREATION)
 NO TV SHOWS BEFORE 2005
 CANT BE CANCELLED OR ONGOING
 HAS TO BE < 100 HOURS RUNTIME
+NO ANIME (I'VE WATCHED THEM ALL)
 ---
 
 rick and morty
 breaking bad
 game of thrones
 better call saul
-unstable smp
 bluey
-alien stage
 gravity falls
 persona
 my mister
 reply 1988
 xmen 97
-teen titans (not go)
 dexter
 black mirror
 daredevil
@@ -51,7 +49,6 @@ succession
 the americans
 happy valley
 dark
-mindhunter
 atlanta
 friday night lights
 boardwalk empire
@@ -70,11 +67,9 @@ pose
 reservation dogs
 undone
 endeavour
-les revenants
 flight of the conchords
 catastrophe
 downtown abbey
-review
 the leftovers
 veep
 PEN15
@@ -86,7 +81,6 @@ the crown
 jane the virgin
 community
 the marvelous mrs maisel
-gentleman jack
 parks and recreation
 broad city
 ted lasso
@@ -96,21 +90,37 @@ i may destroy you
 the deuce
 gomorrah
 penny dreadful
-boys over flowers
-kingdom
 the handmaids tale
 top boy
 the white lotus
-patriot
+a knight of the seven kingdoms
+punisher
+avatar
+sherlock
+you
+weak hero
+crash landing on you
+the crown
+when life gives you tangerines
+severance
+true detective
+the haunting of hill house
+what we do in the shadows
+the IT crowd
 
 ---
 HONORABLE MENTION
 ---
 
+teen titans (not go)
+unstable smp
+unnus annus
+alien stage
 the amazing digital circus
 helluva boss
 hazbin hotel
 cowboy bebop
+unstable smp
 
 ---
 FAIL THE RULES
@@ -121,7 +131,6 @@ the wire
 peep show
 house
 the good wife
-severance
 the pitt
 squid game
 one piece
@@ -132,3 +141,12 @@ arrested development
 rome
 everybody hates chris
 critical role season 1
+mindhunter
+the boys
+boys over flowers
+kingdom
+review
+patriot
+les revenants
+anne with an E
+gentleman jack
