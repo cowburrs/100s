@@ -20,7 +20,6 @@ xmen 97
 dexter
 black mirror
 daredevil
-shameless
 peaky blinders
 fargo
 vikings
@@ -43,7 +42,6 @@ veneno
 fleabag
 nathan for you
 mad men
-justified
 borgen
 succession
 the americans
@@ -73,8 +71,6 @@ downtown abbey
 the leftovers
 veep
 PEN15
-sons of anarchy
-flowers
 halt and catch fire
 modern family
 the crown
@@ -107,6 +103,10 @@ true detective
 the haunting of hill house
 what we do in the shadows
 the IT crowd
+broadchurch
+ozark
+line of duty
+end of the fucking world
 
 ---
 HONORABLE MENTION
@@ -150,3 +150,7 @@ patriot
 les revenants
 anne with an E
 gentleman jack
+flowers
+sons of anarchy
+justified
+shameless
