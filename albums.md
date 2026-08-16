@@ -20,7 +20,7 @@ in the aeroplane over the sea - neutral milk hotel
 souvlaki - slowdive
 the queen is dead - the smiths
 discovery - daft punk
-[x] blonde - frank ocean
+<!-- blonde - frank ocean -->
 either/ or - elliot smith
 the low end theory a - tribe called quest
 Selected Ambient Works 85-92 - Aphex Twin

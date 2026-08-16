@@ -46,7 +46,7 @@ the binding of isaac: rebirth
 dead cells
 before your eyes
 inscryption
-[x] neon white
+<!-- neon white -->
 omori
 black myth wukong
 doki doki literature club - representing ddlc
