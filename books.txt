@@ -1,7 +1,7 @@
 ---
 RULES
-CANT HAVE READ IT ALREADY
-NOT PRE 1975
+CANT HAVE READ IT ALREADY (OR WATCHED MOVIE ADAPTATION)
+ONE BOOK PER AUTHOR
 ---
 
 to kill a mockingbird
@@ -9,6 +9,58 @@ the lord of the rings
 catch 22
 lord of the flies
 lolita
-meditations
-kama sutra
 kingkiller chronicle
+enders game
+pride and prejudice
+The Murder of Roger Ackroyd
+moby dick
+don quixote
+brave new world
+infinite jest
+blood meridian
+the stranger
+iliad
+the count of monte cristo
+the old man and the sea
+Notes from Underground
+the fault in our stars
+the hobbit
+acotar
+twilight
+the bell jar
+wuthering heights
+the little prince
+the alchemist
+the alchemasters apprentice
+hitchikers guide to the galaxy
+the perks of being a wallflower 
+how to train your dragon
+david copperfield
+of mice and men
+one hundred years of solitude
+the picture of dorian gray
+jane eyre
+gone with the wind
+angels and demons
+wheel of time
+i have no mouth and i must scream
+fahrenheit 451
+good omens
+the nightingale
+the shadow of the wind
+the kingkiller chronicle
+all the light we cannot see
+the goldfinch
+this is how you win the time war
+slaughterhouse
+east of eden
+
+
+---
+NO
+---
+dune
+kama sutra
+meditations
+1984
+the hunger games
