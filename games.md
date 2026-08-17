@@ -77,10 +77,8 @@ blazblue centralification - representing blazblue
 marvel spiderman remastered
 enter the gungeon
 mini metro
-missed messages
 ufo 50
 ori and the will of wisps
-the looker
 shower with your dad simulator
 The NOexistenceN of you AND me
 holocure
@@ -98,7 +96,7 @@ dave the diver
 the last of us part 1 - representing the last of us
 volcano princess
 gris
-noita
+noita [This game requires the wiki.]
 vampire survivors
 fate/stay night remastered - represents fate
 silent hill 2 - representing silent hill
@@ -110,6 +108,14 @@ white knuckle
 baldis basics plus
 rabbit and steele
 bomb rush cyberfunk
+cult of the lamb
+crypt of the necrodancer
+
+---
+Checkout
+---
+plateup
+ball x pit
 
 ---
 ranked bonus
@@ -216,3 +222,5 @@ poppy playtime
 warframe
 kingdom hearts
 dying light
+the looker
+missed messages
