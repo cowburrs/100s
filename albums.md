@@ -47,7 +47,7 @@ pinata - freddie gibbs
 toxicity - system of a down
 when the pawn - fiona apple
 the lonesome crowded west - modest mouse
-liquid swords - genius
+<!-- liquid swords - genius -->
 violator - depeche mode
 twin fantasy - car seat headrest
 Music Has the Right to Children - Boards of Canada
@@ -63,7 +63,7 @@ the miseducation of lauryn hill - lauryn hill
 rage against the machine - rage against the machine
 minecraft volume alpha - c418
 turn on the bright lights - interpol
-voodoo - DAngelo
+brown sugar - DAngelo
 lp - jpegmafia
 black on both sides - mos def
 ready to die - the notorious
