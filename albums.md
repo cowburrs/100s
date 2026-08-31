@@ -33,7 +33,7 @@ grace - jeff buckley
 endtroducing - dj shadow
 donuts - j dilla
 mezzanine - massive attack
-doolittle - pixies
+<!-- doolittle - pixies -->
 the downward spiral - nine inch nails
 imaginal disk - magdalena bay
 love deluxe - sade
@@ -56,14 +56,14 @@ spirit of eden - talk talk
 siamese dream - smashing pumpkins
 songs for the deaf - queens of the stone age
 dirt - alice in chains
-white pony - deftones
+<!-- white pony - deftones -->
 titanic rising - weyes blood
 rust in peace - megadeth
 the miseducation of lauryn hill - lauryn hill
 rage against the machine - rage against the machine
 minecraft volume alpha - c418
 turn on the bright lights - interpol
-brown sugar - DAngelo
+<!-- brown sugar - DAngelo -->
 lp - jpegmafia
 black on both sides - mos def
 ready to die - the notorious
@@ -82,7 +82,7 @@ lateralus - tool
 ? - xxxtentacion
 Elephant – The White Stripes
 the eminem show - eminem
-the money store - death grips
+<!-- the money store - death grips -->
 i like it when you sleep - the 1975
 whole lotta red - playboy carti
 licensed to iii - beastie boys
@@ -103,9 +103,9 @@ stratosphere - duster
 demon days - gorillaz
 doris - earl sweatshirt
 post - bjork
-around the fur - deftones
+<!-- around the fur - deftones -->
 daytona - pusha t
-cowboy bebop - seatbelts
+<!-- cowboy bebop - seatbelts -->
 riot - paramore
 
 ---
