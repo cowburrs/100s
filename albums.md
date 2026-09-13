@@ -58,7 +58,7 @@ songs for the deaf - queens of the stone age
 dirt - alice in chains
 <!-- white pony - deftones -->
 titanic rising - weyes blood
-rust in peace - megadeth
+<!-- rust in peace - megadeth -->
 the miseducation of lauryn hill - lauryn hill
 rage against the machine - rage against the machine
 minecraft volume alpha - c418
@@ -102,7 +102,7 @@ post - bjork
 stratosphere - duster
 demon days - gorillaz
 doris - earl sweatshirt
-post - bjork
+<!-- post - bjork -->
 <!-- around the fur - deftones -->
 daytona - pusha t
 <!-- cowboy bebop - seatbelts -->
