@@ -16,7 +16,7 @@ heaven or las vegas - cocteau twins
 igor - tyler the creator
 dummy - portishead
 enter the wutang - wutang clan
-in the aeroplane over the sea - neutral milk hotel
+<!-- in the aeroplane over the sea - neutral milk hotel -->
 souvlaki - slowdive
 the queen is dead - the smiths
 discovery - daft punk
@@ -59,7 +59,7 @@ dirt - alice in chains
 <!-- white pony - deftones -->
 titanic rising - weyes blood
 <!-- rust in peace - megadeth -->
-the miseducation of lauryn hill - lauryn hill
+<!-- the miseducation of lauryn hill - lauryn hill -->
 rage against the machine - rage against the machine
 minecraft volume alpha - c418
 turn on the bright lights - interpol

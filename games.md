@@ -110,6 +110,8 @@ rabbit and steele
 bomb rush cyberfunk
 cult of the lamb
 crypt of the necrodancer
+ender magnolia
+halls of torment
 
 ---
 Checkout
